@@ -1,11 +1,11 @@
 # AI-Powered-Urban-Heat-Island-Detection-for-Sustainable-City-Planning-Cottbus-
 AI + Satellite Data to map Urban Heat Islands in Cottbus and guide climate-smart urban planning.
-# 🌍 AI-Powered Urban Heat Island Detection – Cottbus, Germany
+ AI-Powered Urban Heat Island Detection – Cottbus, Germany
 
-# 🚀 Project Title
+ Project Title
 **GeoAI for Urban Heat Risk Assessment in Cottbus (2023–2025)**
 
-# 🧠 Project Overview
+Project Overview
 
 This rapid research project (10 hours) combines **Artificial Intelligence** and **Environmental Resource Management** to identify **Urban Heat Island (UHI)** risk zones in **Cottbus, Germany**. Using satellite imagery from 2023 and 2025, we applied a pretrained **U-Net** deep learning model to detect vegetation loss and climate vulnerability patterns.
 
@@ -13,7 +13,7 @@ This rapid research project (10 hours) combines **Artificial Intelligence** and 
 
 ---
 
-# 🧑‍💻 Team Roles
+Team Roles
 
 | Name                     | Role                                | Background                          |
 |--------------------------|-------------------------------------|-------------------------------------|
@@ -22,7 +22,7 @@ This rapid research project (10 hours) combines **Artificial Intelligence** and 
 
 ---
 
-## 🧰 Tools & Technologies
+ Tools & Technologies
 
 - Python (Google Colab)
 - U-Net (PyTorch, pretrained)
@@ -34,7 +34,7 @@ This rapid research project (10 hours) combines **Artificial Intelligence** and 
 
 ---
 
-# 🖼️ Input Images
+Input Images
 
 - Satellite images of Cottbus from 2023 and 2025
 - Format: `.png`, visually aligned
@@ -47,7 +47,7 @@ This rapid research project (10 hours) combines **Artificial Intelligence** and 
 
 ---
 
-## 🔍 Step-by-Step Process
+##  Step-by-Step Process
 
 # Step 1: Preprocessing
 
@@ -69,16 +69,16 @@ This rapid research project (10 hours) combines **Artificial Intelligence** and 
 # Step 4: Policy & Sustainability Mapping
 
 - Proposed 5 localized interventions:
-  - 🌿 Green roofs
-  - 🌳 Urban street tree corridors
-  - 🌼 Community gardens
-  - 🧱 Permeable pavements
-  - 🪴 Vertical gardens in dense areas
+  - Green roofs
+  -  Urban street tree corridors
+  -  Community gardens
+  -  Permeable pavements
+  -  Vertical gardens in dense areas
 - Mapped these ideas to EU Green Deal and German Stadtentwicklungskonzept
 
 ---
 
-# 🧠 Results Snapshot
+#  Results Snapshot
 
 <p align="center">
   <img src="images/uhi_risk_map.png" width="70%" />
@@ -91,7 +91,7 @@ This rapid research project (10 hours) combines **Artificial Intelligence** and 
 
 ---
 
-## 🏛️ Real-World Application
+##  Real-World Application
 
 This project demonstrates:
 - How AI can support **climate-resilient city planning**
